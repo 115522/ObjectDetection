@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>COCO_train2014_000000414828 - Copie.jpg</filename>
+	<path>C:\Users\User\Desktop\objectDetection\test\COCO_train2014_000000414828 - Copie.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>53</ymin>
+			<xmax>244</xmax>
+			<ymax>127</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>street</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>179</ymin>
+			<xmax>112</xmax>
+			<ymax>425</ymax>
+		</bndbox>
+	</object>
+</annotation>

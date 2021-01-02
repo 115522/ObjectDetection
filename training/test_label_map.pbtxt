@@ -1,0 +1,65 @@
+item {
+    name: "bananas",
+    id: 1,
+    display_name: "bananas"
+}
+item {
+    name: "bottle",
+    id: 2,
+    display_name: "bottle"
+}
+item {
+    name: "cofee",
+    id: 3,
+    display_name: "cofee"
+}
+item {
+    name: "cup",
+    id: 4,
+    display_name: "cup"
+}
+item {
+    name: "dog",
+    id: 5,
+    display_name: "dog"
+}
+item {
+    name: "dolly",
+    id: 6,
+    display_name: "dolly"
+}
+item {
+    name: "food",
+    id: 7,
+    display_name: "food"
+}
+item {
+    name: "juice",
+    id: 8,
+    display_name: "juice"
+}
+item {
+    name: "person",
+    id: 9,
+    display_name: "person"
+}
+item {
+    name: "pizza",
+    id: 10,
+    display_name: "pizza"
+}
+item {
+    name: "street",
+    id: 11,
+    display_name: "street"
+}
+item {
+    name: "sweets",
+    id: 12,
+    display_name: "sweets"
+}
+item {
+    name: "train",
+    id: 13,
+    display_name: "train"
+}

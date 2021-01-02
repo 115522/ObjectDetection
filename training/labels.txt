@@ -1,0 +1,45 @@
+1 ball
+2 bed
+3 books
+4 cat
+5 chair
+6 cheese
+7 ciseaux
+8 cofee
+9 cup
+10 disc
+11 dog
+12 dolly
+13 floor
+14 food
+15 giraffe
+16 hand
+17 home
+18 imberrella
+19 keyboard
+20  knife
+21 mirror 
+22 mouse
+23 laptop 
+24 person
+25 pizza
+26 pot
+27 ring
+28 salade
+29 sandwitch
+30 sea
+31 sky
+32 sofa
+33 soup
+34 spool
+35 stop
+36 sweets
+37 tabel
+38 tree
+39 tv
+40 vase
+41 wash machine
+42 watch
+43 window
+
+    

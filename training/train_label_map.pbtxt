@@ -1,0 +1,220 @@
+item {
+    name: "ball",
+    id: 1,
+    display_name: "ball"
+}
+item {
+    name: "bed",
+    id: 2,
+    display_name: "bed"
+}
+item {
+    name: "books",
+    id: 3,
+    display_name: "books"
+}
+item {
+    name: "cat",
+    id: 4,
+    display_name: "cat"
+}
+item {
+    name: "chair",
+    id: 5,
+    display_name: "chair"
+}
+item {
+    name: "cheese",
+    id: 6,
+    display_name: "cheese"
+}
+item {
+    name: "ciseaux",
+    id: 7,
+    display_name: "ciseaux"
+}
+item {
+    name: "cofee",
+    id: 8,
+    display_name: "cofee"
+}
+item {
+    name: "cup",
+    id: 9,
+    display_name: "cup"
+}
+item {
+    name: "disc",
+    id: 10,
+    display_name: "disc"
+}
+item {
+    name: "dog",
+    id: 11,
+    display_name: "dog"
+}
+item {
+    name: "dolly",
+    id: 12,
+    display_name: "dolly"
+}
+item {
+    name: "floor",
+    id: 13,
+    display_name: "floor"
+}
+item {
+    name: "food",
+    id: 14,
+    display_name: "food"
+}
+item {
+    name: "giraffe",
+    id: 15,
+    display_name: "giraffe"
+}
+item {
+    name: "hand",
+    id: 16,
+    display_name: "hand"
+}
+item {
+    name: "home",
+    id: 17,
+    display_name: "home"
+}
+item {
+    name: "imberrella",
+    id: 18,
+    display_name: "imberrella"
+}
+item {
+    name: "keyboard",
+    id: 19,
+    display_name: "keyboard"
+}
+item {
+    name: "knife",
+    id: 20,
+    display_name: "knife"
+}
+item {
+    name: "mirror",
+    id: 21,
+    display_name: "mirror"
+}
+item {
+    name: "mouse",
+    id: 22,
+    display_name: "mouse"
+}
+item {
+    name: "Laptop",
+    id: 23,
+    display_name: "Laptop"
+}
+item {
+    name: "person",
+    id: 24,
+    display_name: "person"
+}
+item {
+    name: "pizza",
+    id: 25,
+    display_name: "pizza"
+}
+item {
+    name: "pot",
+    id: 26,
+    display_name: "pot"
+}
+item {
+    name: "ring",
+    id: 27,
+    display_name: "ring"
+}
+item {
+    name: "salade",
+    id: 28,
+    display_name: "salade"
+}
+item {
+    name: "sandwich",
+    id: 29,
+    display_name: "sandwich"
+}
+item {
+    name: "sea",
+    id: 30,
+    display_name: "sea"
+}
+item {
+    name: "shoes",
+    id: 31,
+    display_name: "shoes"
+}
+item {
+    name: "sky",
+    id: 32,
+    display_name: "sky"
+}
+item {
+    name: "sofa",
+    id: 33,
+    display_name: "sofa"
+}
+item {
+    name: "soup",
+    id: 34,
+    display_name: "soup"
+}
+item {
+    name: "spool",
+    id: 35,
+    display_name: "spool"
+}
+item {
+    name: "stop",
+    id: 36,
+    display_name: "stop"
+}
+item {
+    name: "sweets",
+    id: 37,
+    display_name: "sweets"
+}
+item {
+    name: "tabel",
+    id: 38,
+    display_name: "tabel"
+}
+item {
+    name: "tree",
+    id: 39,
+    display_name: "tree"
+}
+item {
+    name: "tv",
+    id: 40,
+    display_name: "tv"
+}
+item {
+    name: "vase",
+    id: 41,
+    display_name: "vase"
+}
+item {
+    name: "wash machine",
+    id: 42,
+    display_name: "wash machine"
+}
+item {
+    name: "watch",
+    id: 43,
+    display_name: "watch"
+}
+item {
+    name: "window",
+    id: 44,
+    display_name: "window"
+}
